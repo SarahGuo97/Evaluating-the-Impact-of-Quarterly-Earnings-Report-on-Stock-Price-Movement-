@@ -1,11 +1,3 @@
-//
-//  Stock.cpp
-//  final_project
-//
-//  Created by 张嘉昕 on 5/3/20.
-//  Copyright © 2020 NYU. All rights reserved.
-//
-
 #include "Stock.h"
 
 //iterate through trading day list to find calculate the start date and end date
