@@ -1,11 +1,3 @@
-//
-//  Bootstrap.cpp
-//  final_project
-//
-//  Created by 张嘉昕 on 5/3/20.
-//  Copyright © 2020 NYU. All rights reserved.
-//
-
 #include "Bootstrap.h"
 
 using namespace std;
