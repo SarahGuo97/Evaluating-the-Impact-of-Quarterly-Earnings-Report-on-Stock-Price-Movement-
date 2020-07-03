@@ -1,11 +1,3 @@
-//
-//  Stock.hp
-//  final_project
-//
-//  Created by 张嘉昕 on 5/3/20.
-//  Copyright © 2020 NYU. All rights reserved.
-//
-
 #ifndef Stock_h
 #define Stock_h
 
