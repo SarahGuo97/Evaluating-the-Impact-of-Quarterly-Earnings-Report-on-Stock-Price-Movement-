@@ -1,11 +1,3 @@
-//
-//  simple_curl.h
-//  final_project
-//
-//  Created by 张嘉昕 on 5/2/20.
-//  Copyright © 2020 NYU. All rights reserved.
-//
-
 #ifndef simple_curl_h
 #define simple_curl_h
 
