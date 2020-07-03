@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  final_project
-//
-//  Created by 张嘉昕 on 5/1/20.
-//  Copyright © 2020 NYU. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 #include <stdexcept> // std::runtime_error
