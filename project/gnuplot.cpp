@@ -1,10 +1,3 @@
-//
-//  gnuplot.cpp
-//  gnuplot
-//
-//  Created by Xiaoya Wang on 5/7/20.
-//  Copyright © 2020 Xiaoya Wang. All rights reserved.
-//
 #include "Bootstrap.h"
 #include <stdio.h>
 void Bootstrap::plotResults(int dataSize){
